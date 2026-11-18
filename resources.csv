@@ -1,0 +1,6 @@
+resource_id,description,cost,allocation_type,direct_product_id
+R001,Servidor do Produto Vendas,1500.00,direct,P001
+R002,Servidor do Produto Atendimento,900.00,direct,P002
+R003,Servidor do Produto Logistica,1100.00,direct,P003
+R004,Banco de dados compartilhado,2000.00,shared,
+R005,Monitoramento compartilhado,500.00,shared,

@@ -1,0 +1,7 @@
+resource_id,product_id,consumption
+R004,P001,20
+R004,P002,30
+R004,P003,50
+R005,P001,40
+R005,P002,35
+R005,P003,25
